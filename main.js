@@ -76,3 +76,5 @@ loop()
 
 // Timeline Magic
 const tl = gspa.timeline({defaults: {duration: 1}})
+
+tl.
